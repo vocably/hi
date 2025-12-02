@@ -1,0 +1,5 @@
+description
+narration
+depiction
+account
+portrayal
