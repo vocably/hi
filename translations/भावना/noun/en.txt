@@ -1,0 +1,10 @@
+feeling
+emotion
+idea
+thought
+imagination
+sentiment
+sense
+conception
+perception
+sensibility

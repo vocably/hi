@@ -1,0 +1,4 @@
+legacy
+inheritance
+endowment
+gift
